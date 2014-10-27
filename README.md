@@ -6,13 +6,13 @@ shipping choices.
 
 The plugin's available for forking and contribution over on [GitHub](https://github.com/leewillis77/WP-e-Commerce-Default-Lowest-Shipping-Choice)
 
-== Installation ==
+## Installation
 
 * Install it as you would any other plugin
 * Activate it
 * You're done
 
-== Changelog ==
+## Changelog
 
-= 1.0 =
+### 1.0
 Initial release
