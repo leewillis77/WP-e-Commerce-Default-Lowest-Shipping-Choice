@@ -1,4 +1,4 @@
-WP-e-Commerce-Default-Lowest-Shipping-Choice
+WP-e-Commerce default lowest shipping choice
 ============================================
 
 A straightforward plugin that makes WP e-Commerce checkout default to the lowest available rate when first populating
