@@ -1,6 +1,12 @@
-WP-e-Commerce-Default-Lowest-Shipping-Choice
-============================================
+=== WP-e-Commerce-Default-Lowest-Shipping-Choice ===
+Contributors: leewillis77
+Donate link: http://plugins.leewillis.co.uk/donate/?utm_source=wordpress&utm_medium=www&utm_campaign=wpec-default-shipping
+Tags: WP e-Commerce, shipping, default
+Requires at least: 4.7
+Tested up to: 4.1
+Stable tag: 1.0
 
+== Description ==
 A straightforward plugin that makes WP e-Commerce checkout default to the lowest available rate when first populating
 shipping choices.
 
