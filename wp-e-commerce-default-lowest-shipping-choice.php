@@ -42,7 +42,6 @@ class WP_E_Commerce_Default_Lowest_Shipping_Choice {
 	 *
 	 * @param string     $selected_option  The currently selected rate.
 	 * @param array      $shipping_quotes  Array of all available shipping quotes.
-	 * @param WPSC_Cart  $wpsc_cart        The WPSC_Cart object.
 	 */
 	public function set_default_shipping_quote( $selected_option, $shipping_quotes ) {
 		$min = null;
