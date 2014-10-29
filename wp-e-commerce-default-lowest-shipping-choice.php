@@ -5,7 +5,7 @@ Description: This plugin changes the checkout logic for WP e-Commerce stores so 
 Plugin URI: http://plugins.leewillis.co.uk/donate?utm_campaign=wpec-default-shipping
 Author: Lee Willis
 Author URI: http://www.leewillis.co.uk/
-Version: 1.0
+Version: 1.1
 License: GPL2
 */
 
