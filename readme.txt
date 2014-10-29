@@ -2,7 +2,7 @@
 Contributors: leewillis77
 Donate link: http://plugins.leewillis.co.uk/donate/?utm_source=wordpress&utm_medium=www&utm_campaign=wpec-default-shipping
 Tags: WP e-Commerce, shipping, default
-Requires at least: 4.7
+Requires at least: 3.7
 Tested up to: 4.1
 Stable tag: 1.1
 
