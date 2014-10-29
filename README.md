@@ -14,5 +14,5 @@ The plugin's available for forking and contribution over on [GitHub](https://git
 
 ## Changelog
 
-### 1.1
+### 1.2
 Initial release

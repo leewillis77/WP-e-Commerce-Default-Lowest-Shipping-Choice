@@ -4,7 +4,7 @@ Donate link: http://plugins.leewillis.co.uk/donate/?utm_source=wordpress&utm_med
 Tags: WP e-Commerce, shipping, default
 Requires at least: 3.7
 Tested up to: 4.1
-Stable tag: 1.1
+Stable tag: 1.2
 
 == Description ==
 A straightforward plugin that makes WP e-Commerce checkout default to the lowest available rate when first populating
@@ -20,5 +20,5 @@ The plugin's available for forking and contribution over on [GitHub](https://git
 
 == Changelog ==
 
-= 1.1 =
+= 1.2 =
 Initial release
